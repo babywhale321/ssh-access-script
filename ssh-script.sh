@@ -1,3 +1,4 @@
+#!/bin/sh
 #Made By: BabyWhale
 
 #public ipv4 of ssh server
