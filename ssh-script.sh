@@ -10,7 +10,7 @@ echo "What is the port number of the ssh server you are accessing? 22 = an examp
 read -r portvar
 
 #user of ssh server
-echo "What will be the username of the ssh server you are accessing? user22 = an example"
+echo "What is the username of the ssh server you are accessing? user22 = an example"
 read -r uservar
 
 #Variables from user input is put into proper syntax for ssh
