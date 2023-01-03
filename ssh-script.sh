@@ -24,3 +24,4 @@ then
 else
     ssh -p $portvar $uservar@$ipvar
 fi
+    ssh -p $portvar $uservar@$ipvar
