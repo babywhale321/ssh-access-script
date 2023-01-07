@@ -6,6 +6,6 @@
 
 3, chmod +x ssh-script.sh
 
-4, ./ssh-script.sh
+4, ./ssh-script.sh or sudo bash ssh-script.sh
 
 5, Follow the prompts as they come up
